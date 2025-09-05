@@ -24,7 +24,7 @@ The goal is to **detect smoking habits from biomedical signals**, which can supp
 - `smoking_status_prediction.html` → Rendered HTML report with the full analysis, visualizations, and results.  
 - `requirements.R` → Script to install all required R libraries.
 - `Findings.pdf` → Presentation summarizing findings and results.
-- ``*Dataset``: **Smokers.csv** → Dataset
+- ``Dataset``: **Smokers.csv**
   - You can download it directly from Kaggle: [Body signal of smoking](https://www.kaggle.com/datasets/kukuroo3/body-signal-of-smoking)  
   - Once downloaded, place it in the project root directory before running the notebook. 
 
