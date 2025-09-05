@@ -53,7 +53,7 @@ This analysis shows that biomedical indicators can be leveraged to:
 ## Limitations
 - Outliers may reflect actual sick patients rather than noise; separating these cases could refine predictions.
 - The dataset lacks behavioral smoking details (frequency, years smoking, quit attempts).
-- The models were trained on structured biomedical data only; n``o lifestyle or socio-economic variables were included``.
+- The models were trained on structured biomedical data only; ``no lifestyle or socio-economic variables were included``.
 
 ## Next steps
 - Apply additional models (e.g., Random Forests, Logistic Regression, Deep Learning).
